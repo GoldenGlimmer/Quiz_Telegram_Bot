@@ -9,3 +9,9 @@
 ```bash
 git clone https://github.com/GoldenGlimmer/Quiz_Telegram_Bot
 ```
+### Гайд по запуску бота
+- Клонируйте репозиторий, введя в терминале: git clone https://github.com/GoldenGlimmer/Quiz_Telegram_Bot
+- Установите необходимые библиотеки, вводя в терминале: pip install <название_библиотеки>
+- Создайте бота в телеграм с помощью @BotFather, следуя инструкциям
+- Присвойте переменной API_TOKEN, находящейся в main.py, токен, который вы получили от BotFather
+- Запустите бота, введя в терминале: python main.py
