@@ -3,5 +3,5 @@
 Найти бота можно в телеграм, введя в поиске @BoldlessBot
 Чтобы клонировать репозиторий введите в терминале:
 ```bash
-git clone 
+git clone https://github.com/GoldenGlimmer/Quiz_Telegram_Bot
 ```
